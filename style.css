@@ -41,3 +41,12 @@ w3-container{
     width: fit-content;
     height: fit-content;
 }
+.img5{
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    padding-left: 75px;
+    width: fit-content;
+    height: fit-content;
+}
