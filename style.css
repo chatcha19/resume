@@ -18,3 +18,18 @@ w3-container{
 .btn{
     background-color: black;
 }
+.img2{
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    width: 150px;
+    height: 150px;
+}
+.img3{
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    width: 10px;
+    height: 10px;
+}
