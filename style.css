@@ -33,3 +33,11 @@ w3-container{
     width: 10px;
     height: 10px;
 }
+.img4{
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    width: fit-content;
+    height: fit-content;
+}
