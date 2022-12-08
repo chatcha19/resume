@@ -1,12 +1,14 @@
 w3-container{
     text-align: center;
+    width: auto;
 }
 .picme{
     border-radius: 300px;
-    margin-top: 100px;
+    /* margin-top: 100px;
     margin-left: 150px;
     margin-right: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 100px; */
+    width: auto;
 }
 .img{
     margin-top: 10px;
